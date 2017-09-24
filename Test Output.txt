@@ -1,0 +1,47 @@
+Employees' yearly salaries:
+Lisa Roberts: $54000
+Mark Stein: $48000
+
+Employees' yearly salaries after 10% raise:
+Lisa Roberts: $59400
+Mark Stein: $52800
+
+Monthly salary is: $0
+
+ERROR - Invalid salary amount specified: $-1
+Salary was left unchanged at: 4400
+
+Monthly salary is: $4400
+
+ERROR - invalid length string entered for first name ins setFirstName(): R
+The first name was left unchanged: Lisa
+The first name is: Lisa
+
+ERROR - invalid length string entered for last name in setLastName():
+The last name was left unchanged: Stein
+The last name is: Stein
+
+Warning - invalid length string entered for first name in ctor:
+The first name will be set as undefined.
+
+Warning - invalid length string entered for last name in ctor: Z
+The last name will be set as undefined.
+
+The first name is: Undefined
+The last name is: Undefined
+Monthly salary is: $0
+
+Warning - invalid length string entered for first name in ctor: M
+The first name will be set as undefined.
+
+Warning - invalid length string entered for last name in ctor:
+The last name will be set as undefined.
+
+Invalid salary amount specified in ctor: -1
+Salary set to $0 instead.
+
+The first name is: Undefined
+The last name is: Undefined
+Monthly salary is: $0
+
+Press any key to continue . . .
